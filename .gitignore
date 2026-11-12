@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Obsidian local files
+.obsidian/
+.trash/
