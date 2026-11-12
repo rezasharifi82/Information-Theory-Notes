@@ -19,6 +19,7 @@ course: Information Theory & Learning
 
 ---
 
+
 ## Module 1: Foundations of Information Measures
 * **[[01.1 - Self-Information and Shannon Entropy|1.1 Self-Information & Shannon Entropy]]**
   * Axiomatic derivation of information content $I(x) = -\log_2 P(x)$ and Shannon entropy $H(X) = -\sum_{x} p(x)\log p(x)$.
